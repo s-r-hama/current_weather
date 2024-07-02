@@ -1,7 +1,7 @@
 ## Instructions/Howto
 
 
-This script checks the weather status conditions for a specified location.
+This script that will look for the current weather in your locale using a public API
 
 
 </br>
